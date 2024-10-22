@@ -42,4 +42,3 @@ console.log("en az biri 90 dan büyük mü ?", cevap4);
 # Ekran görüntüsü
 
 # ![](bes.gif)
-# TypeScript-Notes-App
